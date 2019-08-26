@@ -5,7 +5,7 @@ module.exports = {
   publicPath: '.',
 
 //  devServer: {
-//   host: '46.41.134.105'
+//   host: '...'
 //  }
 }
 
